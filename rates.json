@@ -1,0 +1,47 @@
+{
+  "Tamil Nadu & Pondicherry": {
+    "amount250": 30,
+    "amount1000": 40,
+    "additional500": 20
+  },
+  "Kerala & Karnataka": {
+    "amount250": 60,
+    "amount1000": 70,
+    "additional500": 40
+  },
+  "Andhra Pradesh & Telangana": {
+    "amount250": 70,
+    "amount1000": 90,
+    "additional500": 50
+  },
+  "North": {
+    "amount250": 90,
+    "amount1000": 120,
+    "additional500": 70
+  },
+  "West": {
+    "amount250": 80,
+    "amount1000": 120,
+    "additional500": 70
+  },
+  "East": {
+    "amount250": 120,
+    "amount1000": 130,
+    "additional500": 80
+  },
+  "North East": {
+    "amount250": 250,
+    "amount1000": 250,
+    "additional500": 250
+  },
+  "Special Location": {
+    "amount250": 150,
+    "amount1000": 180,
+    "additional500": 110
+  },
+  "Coimbatore & Local": {
+    "amount250": 25,
+    "amount1000": 35,
+    "additional500": 20
+  }
+}
